@@ -20,15 +20,6 @@ BookBot is a simple command-line tool for analyzing books and extracting basic t
 
 📁 Project Structure
 
-bookbot/
-├── books/
-│   ├── frankenstein.txt
-│   ├── mobydick.txt
-│   └── prideandprejudice.txt
-├── main.py
-├── stats.py
-└── README.md
-
 - main.py: Entry point for the app, handles CLI interaction and report generation.
 
 - stats.py: Contains all functions for counting words and characters, and sorting the results.
